@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlehAmazno
+- 👋 Hi, I’m @AlehAmazon
 - 👀 I’m interested in Python and Data Sciense.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
