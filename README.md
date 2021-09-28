@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlehAmazon
-- 👀 I’m interested in Python and Data Sciense.
+- 👀 I’m interested in Python and Data Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
